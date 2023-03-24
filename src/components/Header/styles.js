@@ -10,6 +10,7 @@ const styles = {
         justifyContent: 'space-between',
         alignItems: 'center',
         boxShadow: '0px 3px 10px rgb(16, 24, 24, 0.5)',
+        marginBottom: '10px',
     },
     title:{
         

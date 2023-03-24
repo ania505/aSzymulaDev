@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
 import Intro from './components/Intro/Intro';
+import About from './components/About/About';
+import Skills from './components/Skills/Skills';
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
         <Header />
         <div className="App-body">
           <Intro />
+          {/* <About /> */}
+          <Skills />
         </div>
       </header>
     </div>

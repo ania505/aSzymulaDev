@@ -5,14 +5,12 @@ const styles = {
         flexDirection: 'column',
         alignItems: 'center',
     },
-    helloWorld:{
-        fontFamily: 'Andale Mono',
-    },
-    meetMe:{
+    title: {
         
     },
-    devDescrip: {
-        fontSize: '14px',
+    about: {
+        padding: '0px 15px',
+        fontSize: '12px',
     },
 }
 
